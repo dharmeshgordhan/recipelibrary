@@ -1,0 +1,22 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+theme: "papermod"
+title: "Olga was here"
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  title: "Olga was here"
+  description: "This is an example site"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
