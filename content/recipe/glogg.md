@@ -38,18 +38,20 @@ author:
 
 ## Prep
 
-Place the sugar and water in small saucepan and summer over a medium heat until the sugar han dissolved.
+Place the sugar and water in a saucepan and simmer over a med heat until the sugar is dissolved. Let it cool slightly.
 
-Pour the mixture into a larger saucepan and add the remaining ingredients. 
+Add the remaining ingredients. 
 
-Reduce the heat right down. You want to get the mature nice and hot, but not let it simmer at all. As soon as you do that, all the alcohol will evaporate and you'll have virgin glogg. Which is not quite an good outcome.
+Reduce the heat. You want to get the the mix hot, but not let it simmer. If it gets too hot, all the alcohol will evaporate and you'll have virgin glogg. lol.
 
-Leave it on a low heat for 30 minutes, until the aromatics have had time to release into the alcohol stew. Before serving strain out the ginger and other spices with a small sieve.
+Leave it on a low heat for 30 minutes, until the aromatics have had time to diffuse into the alcohol stew. 
 
-To serve, ladle hot glögg into small glasses (you don't need much a few sultanas and almonds to the glass). By the time you've speed your way delicately to the bottom, they will have plumped up. Dig them out with a little spoon and enjoy.
+Sieve out the ginger and other spices.
+
+To serve, ladle hot glögg into small glasses (you don't need much a few sultanas and almonds to the glass).
 
 ### Tips
 
-H you have some cheesecloth or muslin, you can put the spices on and up into a little bag Then you can remove it at the end.
+If you have some cheesecloth or muslin, you can put the spices on and up into a little bag Then you can remove it at the end.
 
 * To toast almonds, bake at 180°C for 5 minutes or so until golden.

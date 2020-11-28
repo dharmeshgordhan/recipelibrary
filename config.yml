@@ -1,22 +1,23 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
-theme: "papermod"
-title: "Olga was here"
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+theme: 'papermod'
+title: 'Personal Recipe Library'
 enableRobotsTXT: true
 buildDrafts: false
 
 params:
-  title: "Olga was here"
-  description: "This is an example site"
+  title: 'Personal Recipe Library'
+  description: 'Contains a collection of recipes I want to file away.'
+  css: ['css/override.css']
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: 'https://twitter.com/'
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: 'https://stackoverflow.com'
     - name: github
-      url: "https://github.com/"
+      url: 'https://github.com/'
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: '🧂 🥓 🍋 🔥'
+    Content: Contains a collection of recipes I want to file away.
