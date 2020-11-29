@@ -8,7 +8,7 @@ publishDir: docs
 
 params:
   title: 'Personal Recipe Library'
-  description: 'Contains a collection of recipes I want to file away.'
+  description: 'Contains a collection of recipes I want to file away in a searchable/taggable way.'
   css: ['css/override.css']
 
   socialIcons:
@@ -20,5 +20,10 @@ params:
       url: 'https://github.com/'
 
   homeInfoParams:
-    Title: '🧂 🥓 🍋 🔥'
-    Content: Contains a collection of recipes I want to file away.
+    Title: 'Recipe Library 🧂 🥓 🍋 🔥'
+    Content: >
+      This is a repository of recipes I want to file away in a searchable/taggable way with history.
+
+      This repository is intended purely for personal use. 
+      Some of these recipes have been adapted from friends, family, and other sources. 
+      Any concerns with the recipes, please raise a GitHub issue.

@@ -1,5 +1,5 @@
 ---
-title: "Chocolate Mousse"
+title: "Vegan Chocolate Mousse"
 date: 2020-11-27T21:29:08+13:00
 draft: false
 tags: 
