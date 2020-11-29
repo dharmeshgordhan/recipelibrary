@@ -1,5 +1,5 @@
 ---
-title: "Glogg by Chelsea Winter"
+title: "Glögg"
 date: 2020-11-27T20:58:07+13:00
 draft: false
 tags: 
