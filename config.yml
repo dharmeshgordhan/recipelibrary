@@ -27,3 +27,14 @@ params:
       This repository is intended purely for personal use. 
       Some of these recipes have been adapted from friends, family, and other sources. 
       Any concerns with the recipes, please raise a GitHub issue.
+
+outputFormats:
+  SearchIndex:
+    baseName: search
+    mediaType: application/json
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - SearchIndex
