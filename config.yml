@@ -4,7 +4,6 @@ theme: 'papermod'
 title: 'Personal Recipe Library'
 enableRobotsTXT: true
 buildDrafts: false
-publishDir: docs
 
 params:
   title: 'Personal Recipe Library'
