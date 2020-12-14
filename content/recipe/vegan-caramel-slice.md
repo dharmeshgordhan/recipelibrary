@@ -7,6 +7,7 @@ tags:
 - caramel
 - vegan
 - slice
+- baking
 ---
 
 > adapted from Chelsea Winter's Super Good.
@@ -48,6 +49,8 @@ tags:
 > _...without having to resort to making the an layer out of soggy dates ... but dates masquerading as caramels_...
 
 Agreed 😆. while I appreciate making something vegan, dates and caramel have a different taste. A 'caramel' slice with dates for the caramel... is a date slice...
+
+## Prep
 
 Line a 20cm baking tray.
 

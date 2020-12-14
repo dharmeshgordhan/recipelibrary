@@ -7,6 +7,7 @@ tags:
  - low carb
  - muffins
  - pumpkin
+ - dairy-free
 ---
 
 ## Ingredients

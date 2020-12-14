@@ -7,6 +7,7 @@ tags:
 - caramel
 - vegan
 - slice
+- baking
 ---
 
 > adapted from Chelsea Winter's Super Good.
@@ -21,7 +22,7 @@ tags:
 
 ### Base
 
-- {{<c>}}1 ½ cups wholegrain rolled oats
+- {{<c>}}1½ cups wholegrain rolled oats
 - {{<c>}}¾ cup desiccated coconut
 - {{<c>}}¾ cup plain flour
 - {{<c>}}¼ cup buckwheat groats (optional)
