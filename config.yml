@@ -5,10 +5,23 @@ title: 'Personal Recipe Library'
 enableRobotsTXT: true
 buildDrafts: false
 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 20
+
 params:
   title: 'Personal Recipe Library'
   description: 'Contains a collection of recipes I want to file away in a searchable/taggable way.'
-  css: ['css/override.css']
+
 
   socialIcons:
     - name: twitter
@@ -17,7 +30,11 @@ params:
       url: 'https://stackoverflow.com'
     - name: github
       url: 'https://github.com/'
-
+  buttons:
+    - name: Archives
+      url: archives
+    - name: Tags
+      url: tags
   homeInfoParams:
     Title: 'Recipe Library 🧂 🥓 🍋 🔥'
     Content: >
@@ -26,14 +43,21 @@ params:
       This repository is intended purely for personal use. 
       Some of these recipes have been adapted from friends, family, and other sources. 
       Any concerns with the recipes, please raise a GitHub issue.
+      params:
 
-outputFormats:
-  SearchIndex:
-    baseName: search
-    mediaType: application/json
+  fuseOpts:
+    ignoreLocation: true
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
 
 outputs:
   home:
     - HTML
     - RSS
-    - SearchIndex
+    - JSON
