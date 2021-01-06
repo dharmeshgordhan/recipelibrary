@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>banana on Personal Recipe Library</title>
-    <link>https://dharmeshgordhan.github.io/recipelibrary/tags/banana/</link>
-    <description>Recent content in banana on Personal Recipe Library</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 20:47:25 +1300</lastBuildDate><atom:link href="https://dharmeshgordhan.github.io/recipelibrary/tags/banana/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Banana Flour Pancakes</title>
-      <link>https://dharmeshgordhan.github.io/recipelibrary/recipe/banana-flour-pancakes/</link>
-      <pubDate>Sun, 06 Dec 2020 20:47:25 +1300</pubDate>
-      
-      <guid>https://dharmeshgordhan.github.io/recipelibrary/recipe/banana-flour-pancakes/</guid>
-      <description>Adapted from the back of some packet somewhere
- Ingredients  1 cup of banana flour 1 mashed banana ⅓ cup flour 2 tsp baking powder 1 tsp vanilla essense ⅓ brown sugar 2 eggs (beaten) 1½ oat milk  Prep Whisk all the ingredients together.
-Heat a pan. Put grease/oil/butter in pan. Cook pancakes.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>banana on Personal Recipe Library</title><link>https://dharmeshgordhan.github.io/recipelibrary/tags/banana/</link><description>Recent content in banana on Personal Recipe Library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 20:47:25 +1300</lastBuildDate><atom:link href="https://dharmeshgordhan.github.io/recipelibrary/tags/banana/index.xml" rel="self" type="application/rss+xml"/><item><title>Banana Flour Pancakes</title><link>https://dharmeshgordhan.github.io/recipelibrary/recipe/banana-flour-pancakes/</link><pubDate>Sun, 06 Dec 2020 20:47:25 +1300</pubDate><guid>https://dharmeshgordhan.github.io/recipelibrary/recipe/banana-flour-pancakes/</guid><description>Adapted from the back of some packet somewhere
+Ingredients 1 cup of banana flour 1 mashed banana ⅓ cup flour 2 tsp baking powder 1 tsp vanilla essense ⅓ brown sugar 2 eggs (beaten) 1½ oat milk Prep Whisk all the ingredients together.
+Heat a pan. Put grease/oil/butter in pan. Cook pancakes.</description></item></channel></rss>
