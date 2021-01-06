@@ -43,7 +43,6 @@ params:
       This repository is intended purely for personal use. 
       Some of these recipes have been adapted from friends, family, and other sources. 
       Any concerns with the recipes, please raise a GitHub issue.
-      params:
 
   fuseOpts:
     ignoreLocation: true
