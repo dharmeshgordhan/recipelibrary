@@ -11,10 +11,11 @@ This repository is a collection of recipes I want to file away in a searchable/t
 
 ## To contribute:
 
-### Before you start,q we recommend
+### Before you start, we recommend
 
 * You have some familiarity with `git`. Specifically how to clone, checkout, push, pull and commit code.
 * A copy of `hugo`. Although it is not required, it will allow you to test your changes locally before pushing.
+* A text editor to contribute and edit markdown files.
 
 ### Steps
 
