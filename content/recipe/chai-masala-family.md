@@ -19,7 +19,7 @@ tags:
 
 - {{<c>}}¼ cup black peppercorns
 - {{<c>}}¼ cup white peppercorns
-- {{<c>}}¼ dried ginger
+- {{<c>}}¼ cup dried ginger
 - {{<c>}}seeds from 20 green cardamom pods
 - {{<c>}}3 inch cinnamon stick
 - {{<c>}}20 cloves
