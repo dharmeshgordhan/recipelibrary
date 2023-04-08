@@ -22,14 +22,9 @@ params:
   title: 'Personal Recipe Library'
   description: 'Contains a collection of recipes I want to file away in a searchable/taggable way.'
 
-
   socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
     - name: github
-      url: 'https://github.com/'
+      url: 'https://github.com/https://github.com/dharmeshgordhan'
   buttons:
     - name: Archives
       url: archives
@@ -43,7 +38,6 @@ params:
       This repository is intended purely for personal use. 
       Some of these recipes have been adapted from friends, family, and other sources. 
       Any concerns with the recipes, please raise a GitHub issue.
-
   fuseOpts:
     ignoreLocation: true
     isCaseSensitive: false
@@ -53,7 +47,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
 
 outputs:
   home:
