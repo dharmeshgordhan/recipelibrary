@@ -2,16 +2,16 @@
 
 This repository is a collection of recipes I want to file away in a searchable/taggable way.
 
-## Dependancies:
+## Dependencies:
 
 * [`hugo`](https://gohugo.io/) - converts the pages in the `content` folder into a working website.
-* [`paper-mod`](https://github.com/adityatelange/hugo-PaperMod) - the theme used by hugo. It is referrenced via a `git` `submodule` under `./theme`.
-* GitHub Actions to build and deploy
-* GitHub Pages to host the static website.
+* [`paper-mod`](https://github.com/adityatelange/hugo-PaperMod) - the theme used by hugo. It is referrenced via a `git submodule` under `./themes`.
+* GitHub Actions - to build the branch, and push it to the `gh-pages` branch.
+* GitHub Pages - to host the static website. The site served is from the `gh-pages` branch.
 
 ## To contribute:
 
-### Before you start we recommend
+### Before you start,q we recommend
 
 * You have some familiarity with `git`. Specifically how to clone, checkout, push, pull and commit code.
 * A copy of `hugo`. Although it is not required, it will allow you to test your changes locally before pushing.
@@ -40,4 +40,4 @@ hugo server -D
 7. commit
 8. push your code change
 9. raise a pull request
-10. it'll automatically build and deploy to the `gh-pages` branch when merged via GitHub actions
+10. it'll automatically build and deploy to the `gh-pages` branch when merged via GitHub action
