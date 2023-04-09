@@ -19,12 +19,12 @@ Serves: 1-2 people
 - {{<c>}}1 baby corn, sliced
 - {{<c>}}¼ large onion, diced
 - {{<c>}}¼ bell pepper
-- {{<c>}}1 stalk spring onion, cut in 1' lengths
-- {{<c>}}3-4 dried red spur chilies, sliced in 1' lengths, fried
+- {{<c>}}1 stalk spring onion, cut in 1" lengths
+- {{<c>}}3-4 dried red spur chilies, sliced in 1" lengths, fried
 
 ## Seasoning
 - {{<c>}}1 tsp soy sauce
-- {{<c>}}1 tssp sugar
+- {{<c>}}1 tsp sugar
 - {{<c>}}1 Tbsp oyster sauce
 - {{<c>}}2 Tbsp vegetable oil
 - {{<c>}}1 Tbsp chili paste
@@ -32,7 +32,7 @@ Serves: 1-2 people
 
 ## Prep
 
-1. Add vegetable oil to wok, add garlic, fry until fragrant. Add chickn and fry until done
+1. Add vegetable oil to wok, add garlic, fry until fragrant. Add chicken and fry until done
 2. Add baby corn, mushrooms, onion and chicken stock, stir, add all seasoning sauce ingredients and stir
 3. Add spring onion, dried spur chilies and cashew nuts, stir quickly
 4. Remove from heat and serve with rice
