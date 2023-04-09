@@ -10,7 +10,7 @@ tags:
 
 ## Ingredients
 
-- {{<c>}}1 cup sticky rice,cooked
+- {{<c>}}1 cup sticky rice, cooked
 - {{<c>}}¼ cup sugar
 - {{<c>}}½ tsp salt
 - {{<c>}}1 cup coconut milk or coconut cream
