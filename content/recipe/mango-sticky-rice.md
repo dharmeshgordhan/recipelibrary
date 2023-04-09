@@ -20,11 +20,11 @@ tags:
 
 ## Prep
 
-1. Warm coconut milk, stir constantly, let simmer
-2. Add sugar and salt. Stir constantly
-3. Remove from heat and pout over sticky rice. Let rice absorb sweet coconut milk for 15 minutes
-4. Serve with sliced, chilled mango
+1. Warm coconut milk, stir constantly, let simmer.
+2. Add sugar and salt. Stir constantly.
+3. Remove from heat and pour over sticky rice. Let rice absorb sweet coconut milk for 15 minutes.
+4. Serve with sliced, chilled mango.
 
 ## Note
 Serves: 1-2
-With all Thai meals, always taste before serving. Adjust flavor to your preference 
+With all Thai meals, always taste before serving. Adjust flavor to your preference.
