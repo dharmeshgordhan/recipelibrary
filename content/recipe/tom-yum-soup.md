@@ -1,5 +1,5 @@
 ---
-title: "Hot and Sour Prawn Soup(Tom Yum)"
+title: "Hot and Sour Prawn Soup (Tom Yum)"
 date: 2023-04-09T13:52:10+13:00
 draft: false
 tags: 
@@ -33,7 +33,7 @@ Serves: 2-3 people
 
 ## Prep
 
-1. In a pot, add chicke stock and bring to boil. Add all herbs, chili, lemongrass, kaffir lime leaves, galangal and continue to boil for 3-5 minutes
+1. In a pot, add chicken stock and bring to boil. Add all herbs, chili, lemongrass, kaffir lime leaves, galangal and continue to boil for 3-5 minutes
 2. Add mushrooms, bring to boil, simmer until they are cooked
 3. Add shrimp, tomato, cook until shrimp turns pink then add saw coriander, coriander leaves and spring onion
 4. Turn off the heat, add milk and thai chili paste and seasoning with fish sauce, sugar, tamarind paste and lime juice
